@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi,I'm Minh,an AI researcher at PTIT IEC,specializing in machine learning 👋
 
 <!--
 **minhmoidz/minhmoidz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
